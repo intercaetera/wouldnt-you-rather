@@ -8,3 +8,10 @@ Use this extension to configure popups that show up whenever you open one of the
 
 ![config screenshot](./images/config-ss.jpg)
 ![popup screenshot](./images/popup-ss.jpg)
+
+---
+
+# Installation
+
+1. Download the `.crx` file from the [Releases page](https://github.com/intercaetera/wouldnt-you-rather/releases/tag/v1.0).
+2. Drag and drop it into your Extensions view in Chrome.
