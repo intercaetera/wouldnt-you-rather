@@ -1,11 +1,13 @@
 {
 	"manifest_version": 3,
 	"name": "Wouldn't you rather...",
+	"description": "Stay on track with customizable reminders that appear when you visit specific websites. Set up personalized alerts with relevant links to keep you focused.",
 	"version": "1.0",
 	"permissions": ["storage", "activeTab"],
 	"host_permissions": ["<all_urls>"],
 	"action": {
-		"default_popup": "popup.html"
+		"default_popup": "popup.html",
+		"default_icon": "images/icon.png"
 	},
 	"options_page": "options.html",
 	"content_scripts": [
